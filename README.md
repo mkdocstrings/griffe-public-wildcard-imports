@@ -11,3 +11,24 @@ Mark wildcard imported objects as public.
 This project is available to sponsors only, through my Insiders program.
 See Insiders [explanation](https://mkdocstrings.github.io/griffe-public-wildcard-imports/insiders/)
 and [installation instructions](https://mkdocstrings.github.io/griffe-public-wildcard-imports/insiders/installation/).
+
+## Usage
+
+[Enable](https://mkdocstrings.github.io/griffe/guide/users/extending/#using-extensions) the `griffe_public_wildcard_imports` extension. Now all objects imported through wildcard imports will be considered public, as per the convention.
+
+```python
+# All imported objects are marked as public.
+from somewhere import *
+```
+
+With MkDocs:
+
+```yaml
+plugins:
+- mkdocstrings:
+    handlers:
+      python:
+        options:
+          extensions:
+          - griffe_public_wildcard_imports
+```

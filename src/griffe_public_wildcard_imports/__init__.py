@@ -5,4 +5,6 @@ Mark wildcard imported objects as public.
 
 from __future__ import annotations
 
-__all__: list[str] = []
+from griffe_public_wildcard_imports._internals.extension import PublicWildcardImportsExtension
+
+__all__: list[str] = ["PublicWildcardImportsExtension"]
