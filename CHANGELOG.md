@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
+## [0.2.1](https://github.com/mkdocstrings/griffe-public-wildcard-imports/releases/tag/0.2.1) - 2024-08-18
+
+<small>[Compare with 0.2.0](https://github.com/mkdocstrings/griffe-public-wildcard-imports/compare/0.2.0...0.2.1)</small>
+
+### Build
+
+- Depend on Griffe 1.1 ([f19c836](https://github.com/mkdocstrings/griffe-public-wildcard-imports/commit/f19c836f1b901aa0e1d0722736f4452b66ab6c7b) by Timothée Mazzucotelli).
+
 ## [0.2.0](https://github.com/mkdocstrings/griffe-public-wildcard-imports/releases/tag/0.2.0) - 2024-08-17
 
 <small>[Compare with 0.1.0](https://github.com/mkdocstrings/griffe-public-wildcard-imports/compare/0.1.0...0.2.0)</small>
