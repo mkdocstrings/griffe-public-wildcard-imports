@@ -1,0 +1,12 @@
+# griffe-public-wildcard-imports
+
+> Mark wildcard imported objects as public.
+
+## Usage
+
+- [Overview](https://mkdocstrings.github.io/griffe-public-wildcard-imports/index.md)
+
+## API
+
+- [API reference](https://mkdocstrings.github.io/griffe-public-wildcard-imports/reference/api/index.md)
+
