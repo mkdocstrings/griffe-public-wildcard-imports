@@ -1,13 +1,17 @@
 # griffe-public-wildcard-imports
 
+[![ci](https://github.com/mkdocstrings/griffe-public-wildcard-imports/workflows/ci/badge.svg)](https://github.com/mkdocstrings/griffe-public-wildcard-imports/actions?query=workflow%3Aci)
 [![documentation](https://img.shields.io/badge/docs-mkdocs-708FCC.svg?style=flat)](https://mkdocstrings.github.io/griffe-public-wildcard-imports/)
+[![pypi version](https://img.shields.io/pypi/v/griffe-public-wildcard-imports.svg)](https://pypi.org/project/griffe-public-wildcard-imports/)
 [![gitter](https://img.shields.io/badge/matrix-chat-4DB798.svg?style=flat)](https://app.gitter.im/#/room/#griffe-public-wildcard-imports:gitter.im)
 
 Mark wildcard imported objects as public.
 
 ## Installation
 
-This project is available to sponsors only, through my Insiders program. See Insiders [explanation](https://mkdocstrings.github.io/griffe-public-wildcard-imports/insiders/) and [installation instructions](https://mkdocstrings.github.io/griffe-public-wildcard-imports/insiders/installation/).
+```bash
+pip install griffe-public-wildcard-imports
+```
 
 ## Usage
 
@@ -29,3 +33,8 @@ plugins:
           extensions:
           - griffe_public_wildcard_imports
 ```
+
+## Sponsors
+
+<!-- sponsors-start -->
+<!-- sponsors-end -->
