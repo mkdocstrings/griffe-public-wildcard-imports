@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
+## [0.3.0](https://github.com/mkdocstrings/griffe-public-wildcard-imports/releases/tag/0.3.0) - 2025-11-09
+
+<small>[Compare with 0.2.1](https://github.com/mkdocstrings/griffe-public-wildcard-imports/compare/0.2.1...0.3.0)</small>
+
+### Features
+
+- Release Insiders project ([eaae30e](https://github.com/mkdocstrings/griffe-public-wildcard-imports/commit/eaae30e034032701241e6037ca4715f081887431) by Timothée Mazzucotelli).
+
 ## [0.2.1](https://github.com/mkdocstrings/griffe-public-wildcard-imports/releases/tag/0.2.1) - 2024-08-18
 
 <small>[Compare with 0.2.0](https://github.com/mkdocstrings/griffe-public-wildcard-imports/compare/0.2.0...0.2.1)</small>
