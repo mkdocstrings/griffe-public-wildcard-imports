@@ -5,6 +5,7 @@ site_author = "Timothée Mazzucotelli"
 site_url = "https://mkdocstrings.github.io/griffe-public-wildcard-imports"
 repo_url = "https://github.com/mkdocstrings/griffe-public-wildcard-imports"
 repo_name = "mkdocstrings/griffe-public-wildcard-imports"
+edit_uri = "edit/main/docs/"
 copyright = "Copyright &copy; 2024 Timothée Mazzucotelli"
 extra_css = ["css/apidocs.css"]
 extra_javascript = ["js/feedback.js"]
