@@ -7,6 +7,12 @@
         <loc>https://mkdocstrings.github.io/griffe-public-wildcard-imports/changelog/</loc>
       </url>
       <url>
+        <loc>https://mkdocstrings.github.io/griffe-public-wildcard-imports/code_of_conduct/</loc>
+      </url>
+      <url>
+        <loc>https://mkdocstrings.github.io/griffe-public-wildcard-imports/contributing/</loc>
+      </url>
+      <url>
         <loc>https://mkdocstrings.github.io/griffe-public-wildcard-imports/credits/</loc>
       </url>
       <url>
@@ -14,11 +20,5 @@
       </url>
       <url>
         <loc>https://mkdocstrings.github.io/griffe-public-wildcard-imports/reference/api/</loc>
-      </url>
-      <url>
-        <loc>https://mkdocstrings.github.io/griffe-public-wildcard-imports/contributing/</loc>
-      </url>
-      <url>
-        <loc>https://mkdocstrings.github.io/griffe-public-wildcard-imports/code_of_conduct/</loc>
       </url>
 </urlset>
